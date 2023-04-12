@@ -147,7 +147,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "我是一个人工智能聊天机器人，名为Chatgpt，使用OpenAI的GPT-3.5技术构建。我的目标是通过回答您的问题和提供有用的信息来帮助您解决您遇到的问题或者满足您的好奇心。我可以回答各种各样的问题，包括科学、技术、历史、文化等领域。如果您对我有任何疑问或需要帮助，请随时提问！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
